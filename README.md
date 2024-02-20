@@ -1,3 +1,3 @@
 Realtor:
 
-Show real estate across the UAE
+Show real estate properties for rent and for sell across the UAE
